@@ -3,7 +3,7 @@
 
 [![Github](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/iasfk)](https://github.com/iasfk)
 [![Notion Badge](https://img.shields.io/badge/Notion-blueviolet?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/jjongdev/Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7)](https://www.notion.so/iasfk/26b102f031ee432680cddd21954ca550)
-[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjong.dev@gmail.com)](mailto:iasfk@naver.com)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!--글자%20글자 여기서 %20이 띄어쓰기 -->
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:!
 -->
 
 <div align=center>
-## :cherry_blossom: INTRODUCTION :cherry_blossom:
+:cherry_blossom: ## INTRODUCTION :cherry_blossom:
   
 안녕하세요!
 백엔드 개발자가 되고 싶은 박예인입니다.
