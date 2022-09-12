@@ -22,7 +22,7 @@ Here are some ideas to get you started:!
 -->
 
 <div align=center>
-:cherry_blossom: ## INTRODUCTION :cherry_blossom:
+:cherry_blossom: INTRODUCTION :cherry_blossom:
   
 안녕하세요!
 백엔드 개발자가 되고 싶은 박예인입니다.
