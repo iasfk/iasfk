@@ -19,17 +19,15 @@ Here are some ideas to get you started:!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm **Yein Park**!
 
+<div align=center>
+:cherry_blossom: INTRODUCTION :cherry_blossom:
+  
+안녕하세요!
+백엔드 개발자가 되고 싶은 박예인입니다.
 
-Good day!
-
-
-I want to be a Backend developer! I am interested in computer science and backend technology. 
-I love video games, sudoku and communication!
-
-
-If you want to contact me, please leave me a message!
+열심히 공부 중에 있으니 꼭 다시 한 번 들러주세요!
+</div>
 
 
 
