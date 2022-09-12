@@ -1,3 +1,5 @@
+
+<div align=center>
 ### Hi there 👋
 
 [![Github](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/iasfk)](https://github.com/iasfk)
@@ -21,7 +23,7 @@ Here are some ideas to get you started:!
 -->
 
 <div align=center>
-:cherry_blossom: INTRODUCTION :cherry_blossom:
+## :cherry_blossom: INTRODUCTION :cherry_blossom:
   
 안녕하세요!
 백엔드 개발자가 되고 싶은 박예인입니다.
