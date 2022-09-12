@@ -1,6 +1,5 @@
 
 <div align=center>
-### Hi there 👋
 
 [![Github](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/iasfk)](https://github.com/iasfk)
 [![Notion Badge](https://img.shields.io/badge/Notion-blueviolet?style=for-the-badge&logo=Notion&logoColor=white&link=mailto:https://www.notion.so/jjongdev/Park-Jong-Chan-a123264f20964440b45c6d728a7de2a7)](https://www.notion.so/iasfk/26b102f031ee432680cddd21954ca550)
